@@ -1,10 +1,25 @@
-# research-of-trust
+| who is trusting | who is being trusted | trust factor | ref | method | measurable in covid-tweets? | 
+| --------------- | --------------- | --------------- | --------------- | --------------- || --------------- |
+| M2M group user | other users | exclusive membership | [Moser2017] | qualitative | -- | 
+| M2M group user  | other users | shared group identity | [Moser2017] | qualitative | -- | 
+| M2M group user  | other users | regulation by admin | [Moser2017] | qualitative | -- | 
+| M2M group user  | other users | regulation by members | [Moser2017] | qualitative | -- | 
+| M2M group user  | other users | strong group norms | [Moser2017] | qualitative | -- | 
+| M2M group user  | group moderators | moderator to make decisions for the group | [Moser2017] | qualitative | -- | 
+| FB user  | FB group | smaller, closed, older, more exclusive, more homogeneous | [Ma2020] | survey/quantitative | -- | 
+| FB user  | FB group | group's friendship network | [Ma2020] | survey/quantitative | -- | 
+| FB user  | FB group | users position in friendship network | [Ma2020] | survey/quantitative | -- | 
 
-- **[When Does Trust in Online Social Groups Grow?](https://files.clr3.com/papers/2020_trustgrow.pdf)** *Shankar Iyer, Justin Cheng, Nick Brown, Xiuhua Wang*. ICWSM, 2020.
 
-- **[When Do People Trust Their Social Groups?](https://files.clr3.com/papers/2019_trustingroups.pdf)** *Xiao Ma, Justin Cheng, Shankar Iyer, Mor Naaman*. CHI, 2020.
 
-- **[Community Commerce: Facilitating Trust in Mom-to-Mom Sale Groups on Facebook.](http://www.carolmoser.com/wp-content/uploads/2017/05/M2M_moser_CHI17.pdf)** *Carol Moser, Paul Resnick, Sarita Schoenebeck*. CHI, 2017.
+
+# References
+
+[Iyer2020] **[When Does Trust in Online Social Groups Grow?](https://files.clr3.com/papers/2020_trustgrow.pdf)** *Shankar Iyer, Justin Cheng, Nick Brown, Xiuhua Wang*. ICWSM, 2020.
+
+[Ma2020] **[When Do People Trust Their Social Groups?](https://files.clr3.com/papers/2019_trustingroups.pdf)** *Xiao Ma, Justin Cheng, Shankar Iyer, Mor Naaman*. CHI, 2020.
+
+[Moser2017] **[Community Commerce: Facilitating Trust in Mom-to-Mom Sale Groups on Facebook.](http://www.carolmoser.com/wp-content/uploads/2017/05/M2M_moser_CHI17.pdf)** *Carol Moser, Paul Resnick, Sarita Schoenebeck*. CHI, 2017.
 
 - **[Validating a scale for citizen trust in government organizations.](https://journals.sagepub.com/doi/full/10.1177/0020852315585950)** *Grimmelikhuijsen, S. and Knies, E.*. International Review of Administrative Sciences, 2017.
 
