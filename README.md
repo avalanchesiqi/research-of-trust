@@ -1,14 +1,16 @@
+Trust survey table 
+
 | who is trusting | who is being trusted | trust factor | ref | method | measurable in covid-tweets? | 
-| --------------- | --------------- | --------------- | --------------- | --------------- || --------------- |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | M2M group user | other users | exclusive membership | [Moser2017] | qualitative | -- | 
 | M2M group user  | other users | shared group identity | [Moser2017] | qualitative | -- | 
 | M2M group user  | other users | regulation by admin | [Moser2017] | qualitative | -- | 
 | M2M group user  | other users | regulation by members | [Moser2017] | qualitative | -- | 
 | M2M group user  | other users | strong group norms | [Moser2017] | qualitative | -- | 
 | M2M group user  | group moderators | moderator to make decisions for the group | [Moser2017] | qualitative | -- | 
-| FB user  | FB group | smaller, closed, older, more exclusive, more homogeneous | [Ma2020] | survey/quantitative | -- | 
-| FB user  | FB group | group's friendship network | [Ma2020] | survey/quantitative | -- | 
-| FB user  | FB group | users position in friendship network | [Ma2020] | survey/quantitative | -- | 
+| FB user  | FB group | smaller, closed, older, more exclusive, more homogeneous | [Ma2020] | survey | -- | 
+| FB user  | FB group | group's friendship network | [Ma2020] | quantitative | -- | 
+| FB user  | FB group | users position in friendship network | [Ma2020] | quantitative | -- | 
 
 
 
