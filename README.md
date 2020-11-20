@@ -1,6 +1,17 @@
-# research-of-trust
+| who is trusting | who is being trusted | trust factor | ref |  measurable in covid-tweets? | 
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| M2M group user | other users | exclusive membership | [Moser2017] | -- | 
+| M2M group user  | other users | shared group identity | [Moser2017] | -- | 
+| M2M group user  | other users | regulation by admin | [Moser2017] | -- | 
+| M2M group user  | other users | regulation by members | [Moser2017] | -- | 
+| M2M group user  | other users | regulation at group level | [Moser2017] | -- | 
 
-- **[When Does Trust in Online Social Groups Grow?](https://files.clr3.com/papers/2020_trustgrow.pdf)** *Shankar Iyer, Justin Cheng, Nick Brown, Xiuhua Wang*. ICWSM, 2020.
+
+
+
+# References
+
+[Iyer2020] **[When Does Trust in Online Social Groups Grow?](https://files.clr3.com/papers/2020_trustgrow.pdf)** *Shankar Iyer, Justin Cheng, Nick Brown, Xiuhua Wang*. ICWSM, 2020.
 
 [Ma2020] **[When Do People Trust Their Social Groups?](https://files.clr3.com/papers/2019_trustingroups.pdf)** *Xiao Ma, Justin Cheng, Shankar Iyer, Mor Naaman*. CHI, 2020.
 
