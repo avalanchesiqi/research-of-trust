@@ -13,11 +13,18 @@ Trust survey table
 | FB user  | FB group | users position in friendship network | [Iyer2020] | quantitative | -- | 
 
 
+| who is attacking | who is being attacked | attack factor | ref | method | measurable in covid-tweets? | 
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| M2M group user | other users | exclusive membership | [Hua2020a] | quantitative | -- | 
+
 
 
 # References
 
-[Hua2020] **[Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections](http://yiqing-hua.com/papers/adversarial_candidates_icwsm2020.pdf)** *Yiqing Hua, Thomas Ristenpart, Mor Naaman*. ICWSM, 2020.
+[Hua2020a] **[Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates.
+](http://yiqing-hua.com/papers/adversarial_user_chi2020.pdf)** *Yiqing Hua, Mor Naaman, Thomas Ristenpart*. CHI, 2020.
+
+[Hua2020b] **[Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections](http://yiqing-hua.com/papers/adversarial_candidates_icwsm2020.pdf)** *Yiqing Hua, Thomas Ristenpart, Mor Naaman*. ICWSM, 2020.
 
 [Iyer2020] **[When Does Trust in Online Social Groups Grow?](https://files.clr3.com/papers/2020_trustgrow.pdf)** *Shankar Iyer, Justin Cheng, Nick Brown, Xiuhua Wang*. ICWSM, 2020.
 
