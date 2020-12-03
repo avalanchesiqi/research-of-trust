@@ -27,6 +27,8 @@ Trust survey table
 # Takeaways
 1. Findings reveal patterns of interpersonal trust. For example, high-quality images are perceived as more trustworthy than stock imagery; language of promises lead to higher perceived trustworthiness through conventional signaling; and smaller, denser, and more private social groups are trusted more. [Ma2019]
 
+2. \[Whites | higher family incomes | married | middle-aged and the elderly | rural\] are more trusting than \[blacks or Hispanics | lower family incomes | unmarried | young | urban\]. By contrast, men and women; Republicans and Democrats; liberals and conservatives; Protestants and Catholics and the secular — all of these groups have roughly similar levels of trust. [Pew2007]
+
 
 
 # References
@@ -44,6 +46,8 @@ Trust survey table
 
 [Moser2017] **[Community Commerce: Facilitating Trust in Mom-to-Mom Sale Groups on Facebook.](http://www.carolmoser.com/wp-content/uploads/2017/05/M2M_moser_CHI17.pdf)** *Carol Moser, Paul Resnick, Sarita Schoenebeck*. CHI, 2017.
 
+[Pew2007] **[Americans and Social Trust: Who, Where and Why.](https://www.pewsocialtrends.org/2007/02/22/americans-and-social-trust-who-where-and-why/)** *Pew Research Center*. 2007.
+
 - **[Validating a scale for citizen trust in government organizations.](https://journals.sagepub.com/doi/full/10.1177/0020852315585950)** *Grimmelikhuijsen, S. and Knies, E.*. International Review of Administrative Sciences, 2017.
 
 - **[Citizens’ use of social media in government, perceived transparency, and trust in government.](https://www.tandfonline.com/doi/full/10.1080/15309576.2015.1108798)** *Song, C. and Lee, J.*. Public Performance & Management Review, 2016.
@@ -57,8 +61,6 @@ Trust survey table
 - **[Trust and Nuanced Profile Similarity in Online Social Networks.](https://doi.org/10.1145/1594173.1594174)** *Jennifer Golbeck*. 2009.
 
 - **[Measuring trust in government: a Hong Kong perspective.](http://journals.sfu.ca/ipmr/index.php/ipmr/article/view/58)** *Burnett, M., Tsang, S., Studer, S., Hills, P. and Welford, R.*. International Public Management Review, 2008.
-
-- **[Americans and Social Trust: Who, Where and Why.](https://www.pewsocialtrends.org/2007/02/22/americans-and-social-trust-who-where-and-why/)** *Pew Research Center*. 2007.
 
 - **[Social capital and the dynamics of trust in government.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2007.00248.x)** *Keele, L.*. American Journal of Political Science, 2007.
 
