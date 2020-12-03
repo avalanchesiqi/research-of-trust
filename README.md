@@ -25,16 +25,19 @@ Trust survey table
 
 
 # Takeaways
-1. Findings reveal patterns of interpersonal trust. For example, high-quality images are perceived as more trustworthy than stock imagery; language of promises lead to higher perceived trustworthiness through conventional signaling; and smaller, denser, and more private social groups are trusted more. [Ma2019]
+1. Government trust arise amid the pandemic. Those with less education, less money and fewer resources are bearing a disproportionate burden of the suffering. Scientists and government leaders are more trusting than CEOs. [Edelman2020]
 
-2. \[Whites | higher family incomes | married | middle-aged and the elderly | rural\] are more trusting than \[blacks or Hispanics | lower family incomes | unmarried | young | urban\]. By contrast, men and women; Republicans and Democrats; liberals and conservatives; Protestants and Catholics and the secular — all of these groups have roughly similar levels of trust. [Pew2007]
+2. Findings reveal patterns of interpersonal trust. For example, high-quality images are perceived as more trustworthy than stock imagery; language of promises lead to higher perceived trustworthiness through conventional signaling; and smaller, denser, and more private social groups are trusted more. [Ma2019]
+
+3. \[Whites | higher family incomes | married | middle-aged and the elderly | rural\] are more trusting than \[blacks or Hispanics | lower family incomes | unmarried | young | urban\]. By contrast, men and women; Republicans and Democrats; liberals and conservatives; Protestants and Catholics and the secular — all of these groups have roughly similar levels of trust. [Pew2007]
 
 
 
 # References
 
-[Hua2020a] **[Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates.
-](http://yiqing-hua.com/papers/adversarial_user_chi2020.pdf)** *Yiqing Hua, Mor Naaman, Thomas Ristenpart*. CHI, 2020.
+[Edelman2020] **[2020 Edelman Trust Barometer Spring Update.](https://www.edelman.com/research/trust-2020-spring-update)**
+
+[Hua2020a] **[Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates.](http://yiqing-hua.com/papers/adversarial_user_chi2020.pdf)** *Yiqing Hua, Mor Naaman, Thomas Ristenpart*. CHI, 2020.
 
 [Hua2020b] **[Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections](http://yiqing-hua.com/papers/adversarial_candidates_icwsm2020.pdf)** *Yiqing Hua, Thomas Ristenpart, Mor Naaman*. ICWSM, 2020.
 
