@@ -9,13 +9,15 @@ Trust survey table
 | M2M group user  | other users | strong group norms | [Moser2017] | qualitative | -- | 
 | M2M group user  | group moderators | moderator to make decisions for the group | [Moser2017] | qualitative | -- | 
 | FB user  | FB group | smaller, closed, older, more exclusive, more homogeneous | [Ma2020] | survey | -- | 
-| FB user  | FB group | group's friendship network | [Ma2020] | quantitative | -- | 
-| FB user  | FB group | users position in friendship network | [Ma2020] | quantitative | -- | 
+| FB user  | FB group | group's friendship network | [Iyer2020] | quantitative | -- | 
+| FB user  | FB group | users position in friendship network | [Iyer2020] | quantitative | -- | 
 
 
 
 
 # References
+
+[Hua2020] **[Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections](http://yiqing-hua.com/papers/adversarial_candidates_icwsm2020.pdf)** *Yiqing Hua, Thomas Ristenpart, Mor Naaman*. ICWSM, 2020.
 
 [Iyer2020] **[When Does Trust in Online Social Groups Grow?](https://files.clr3.com/papers/2020_trustgrow.pdf)** *Shankar Iyer, Justin Cheng, Nick Brown, Xiuhua Wang*. ICWSM, 2020.
 
