@@ -3,19 +3,26 @@ Trust survey table
 | who is trusting | who is being trusted | trust factor | ref | method | measurable in covid-tweets? | 
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | M2M group user | other users | exclusive membership | [Moser2017] | qualitative | -- | 
-| M2M group user  | other users | shared group identity | [Moser2017] | qualitative | -- | 
-| M2M group user  | other users | regulation by admin | [Moser2017] | qualitative | -- | 
-| M2M group user  | other users | regulation by members | [Moser2017] | qualitative | -- | 
-| M2M group user  | other users | strong group norms | [Moser2017] | qualitative | -- | 
-| M2M group user  | group moderators | moderator to make decisions for the group | [Moser2017] | qualitative | -- | 
-| FB user  | FB group | smaller, closed, older, more exclusive, more homogeneous | [Ma2020] | survey | -- | 
-| FB user  | FB group | group's friendship network | [Iyer2020] | quantitative | -- | 
-| FB user  | FB group | users position in friendship network | [Iyer2020] | quantitative | -- | 
+| M2M group users | other users | shared group identity | [Moser2017] | qualitative | -- | 
+| M2M group users | other users | regulation by admin | [Moser2017] | qualitative | -- | 
+| M2M group users | other users | regulation by members | [Moser2017] | qualitative | -- | 
+| M2M group users | other users | strong group norms | [Moser2017] | qualitative | -- | 
+| M2M group users | group moderators | moderator to make decisions for the group | [Moser2017] | qualitative | -- | 
+| FB users | FB groups | smaller, closed, older, more exclusive, more homogeneous | [Ma2020] | survey | -- | 
+| FB users | FB groups | group's friendship network | [Iyer2020] | quantitative | -- | 
+| FB users | FB groups | users position in friendship network | [Iyer2020] | quantitative | -- | 
 
 
-| who is attacking | who is being attacked | attack factor | ref | method | measurable in covid-tweets? | 
+| who is attacking (A) | who is being attacked (V) | attack factor | ref | method | measurable in covid-tweets? | 
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| M2M group user | other users | exclusive membership | [Hua2020a] | quantitative | -- | 
+| Twitter user | political candidates | (A) network centrality (-) | [Hua2020a] | quantitative | -- | 
+| Twitter user | political candidates | (A) attention to opposing parties (+) | [Hua2020a] | quantitative | -- | 
+| Twitter user | political candidates | (A) in-party interaction (-) | [Hua2020a] | quantitative | -- | 
+| Twitter user | political candidates | (A) profile negativity (+) | [Hua2020a] | quantitative | -- | 
+| Twitter user | political candidates | (V) attention from opposing parties (+) | [Hua2020b] | quantitative | -- | 
+| Twitter user | political candidates | (V) number of followers (-) | [Hua2020b] | quantitative | -- | 
+| Twitter user | political candidates | (V) candidate gender × party (F x D) | [Hua2020b] | quantitative | -- | 
+
 
 
 
